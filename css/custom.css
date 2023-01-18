@@ -1,0 +1,62 @@
+body {
+    background: #000428;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #004e92, #000428);  
+background: linear-gradient(to right, #189200, #000428); 
+}
+
+h1{
+    font-weight: 100%;
+    color: white;
+    
+}
+
+.formulario{
+    background-color: rgb(11, 62, 139);
+    margin-top: 10%;
+    padding: 38px;
+    border-radius: 20px;
+    color: aliceblue;
+}
+
+.contenidoListado{
+    margin-top: 10%;
+    background-color: rgb(202, 123, 5);
+    padding: 52px;
+    border-radius: 20px;
+    color: aliceblue;
+}
+
+.total{
+    background-color: #b8daff;
+    padding: 8px;
+    border-radius: 6px;
+    margin-top: 5%;
+}
+
+.restante{
+    background-color: #c3e6cb;
+    padding: 8px;
+    margin-top: 5%;
+    border-radius: 6px;
+}
+
+.presupuesto p{
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.presupuesto p span {
+    font-weight: normal;
+}
+
+.nombre{
+    color: black;
+    font-weight: bold;    
+}
+
+.list{
+    margin-bottom: 10%;
+}
+
+
+
